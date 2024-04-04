@@ -1,0 +1,93 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+---
+
+<BaseLayout title="Resume" sideBarActiveItemID="about">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">About Me</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+    There's not much to say, except that I'm working every day to be the best
+    writer and web developer (and human) that I can be. Other interests include
+    Brazilian Jiu-Jitsu (I'm a blue belt), Piano (I volunteer at the W.O. Smith
+    school here in Nashville) and the psychological importance of reading
+    fiction.
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Education</div>
+  </div>
+
+  <div class="time-line-container grid gap-4 mb-10">
+    <TimeLineElement
+      title="BA - German Studies & Sociology"
+      subtitle="2011 to 2016 at Emory University, Atlanta, GA"
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Software Engineer II"
+      subtitle="From 2021 to 2024 at XSOLIS, Nashville, TN"
+    >
+      Supporting multiple web applications built to enhance workflow between
+      healthcare payers and providers with React, nodeJS, SQL and cloud
+      architecture using Amazon Web Services. Developed new User Interface for
+      improved access to key application components with Javascript and React.
+      Developed RESTful API features and event-driven data consumers with
+      Typescript and Apache Kafka. Worked across multiple teams and
+      microservices to achieve interoperability between applications
+    </TimeLineElement>
+    <TimeLineElement
+      title="Web Developer"
+      subtitle="From July 2020 to January 2021 at Moximetrics Digital, Nashville TN"
+    >
+      Building multiple fun websites with fun people, for fun people.
+    </TimeLineElement>
+    <TimeLineElement
+      title="Operations Manager - King of Pops"
+      subtitle="From 2017 to 2020 at King of Pops, Atlanta , GA + Nashville, TN"
+    >
+      Managing operations for a small, fast growing gourmet popsicle startup
+      taught me that just becuase you wear shorts to work doesn't mean you work
+      hard. We grew from three employees and >2k in sales per week to 20+
+      employees and >10k in sales per week over the course of three years. I was
+      responsible for recruiting, interviewing and training employees, managing
+      daily schdule, managing employee routing and inventory, plus scouting for
+      new sales opportunitites. Also running social media.
+    </TimeLineElement>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Certifications</div>
+  </div>
+
+  <ul class="list-disc mx-6 mb-10 grid gap-2">
+    <li>
+      <a href="https://bootcamps.vanderbilt.edu/coding/" target="_blank">
+        Full Stack Web Development Certificate from Vanderbilt University (2020)</a
+      >
+    </li>
+  </ul>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Technical Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-5 columns-2 mx-6">
+    <li>Javascript</li>
+    <li>React</li>
+    <li>SQL</li>
+    <li>HTML5</li>
+    <li>CSS</li>
+    <li>Apache Kafka</li>
+    <li>WordPress</li>
+    <li>AWS</li>
+  </ul>
+</BaseLayout>
