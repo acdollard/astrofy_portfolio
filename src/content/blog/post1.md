@@ -1,56 +1,44 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+title: "How I Decide if Something is Worth Saying"
+description: "I could go on all day about why it’s good to be sparse with your words."
+pubDate: "April 4 2024"
+tags: ["musings"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+“Tell them I never spoke unless it improved upon silence.” 
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+-Carvens Lissaint
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+I could go on all day about why it’s good to be sparse with your words. Not just in writing, but in everyday conversation, where we often mistakenly feel like everything needs a response. One can see the stickiness inherent in this notion- if that were true, we would never stop talking.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+
+I’ve noticed Koreans are good at this. At not responding to every little thing, I mean. Two of my closest friends are Korean and I’ve spent some time in Korea (the fun one) and have probably watched every Korean action movie ever made, which makes me an expert on their culture. There have been times when I’ve disclosed something to my one friend, Brian, and he’ll just nod and take a drag on his cigarette. I see. He’ll say. Nothing else. This is a common response. I have other American friends who will jump into solution mode, or pass judgment one way or the other. Not Brian. He just listens, and will only respond if he has an actual, relevant thought.
+
+
+It’s not just a Korean thing, of course. I have another friend, Courtney, who is as caucasian as they come, and she has perfected the art of the cold, blank stare. I experienced it once when I randomly told her she “looked like she could be anywhere between the ages of 25 to 35.”
+
+
+I’m not surprised that one didn’t get a response.
+
+
+Anyway, my point is it’s refreshing when people are comfortable with letting things lie. It makes their words more poignant when they do come. I actually think it would be good for most of us, myself included, to raise the bar on whether we put a thought into words. In that vein, I’ve come up with a three-pronged criteria. They are, in order of importance:
+
+
+1. Is it truthful?
+
+2. Is it helpful or relevant?
+
+3. Is it considerate?
+
+
+Number one, is it truthful? Should be self-evident. It’s worth noting, however, that I used the word truthful instead of true. Is this actually what I think? Might be another way to phrase it.
+
+
+Number two: Is it helpful? Something can be both technically true and a complete waste of time. Say things that actually move the situation forward. (I don’t think my comment to Courtney would have passed this test.) Sidenote: a good joke is never a waste of time.
+
+
+Number three: Is it considerate? Worth mentioning, but the least important. Does it take their feelings into consideration? This is the difference between being honest and being an asshole. There are usually many different ways to say the same thing. When all else is equal, be gentle.
+
+
+So that’s it. It’s not rocket science. Be honest, make sure there’s a point, and don’t be a douche. I plan on using these criteria going forward, and therefore probably talking a lot less.
